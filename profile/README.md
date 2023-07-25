@@ -31,7 +31,7 @@ The more money with raise, the more people we can support! Our mission is to hel
 
 [Website](https://garagescript.org/)
 
-
+[Donate here](https://secure.givelively.org/donate/garage-script)
 
 <!--
 
