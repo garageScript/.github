@@ -29,11 +29,7 @@ We believe in training students with the intention of hiring back every single o
 ## What do you do with donation money?
 The more money with raise, the more people we can support! Our mission is to help people struggling financially by not only teaching them how to code, but also help them financially as they learn.
 
-[Website](https://garagescript.org/)
-
-[Discord](https://discord.gg/c0d3)
-
-[Donate here](https://secure.givelively.org/donate/garage-script)
+[Website](https://garagescript.org/) | [Discord](https://discord.gg/c0d3) | [Donate here](https://secure.givelively.org/donate/garage-script)
 
 
 <!--
