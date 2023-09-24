@@ -31,6 +31,8 @@ The more money with raise, the more people we can support! Our mission is to hel
 
 [Website](https://garagescript.org/)
 
+[Discord](https://discord.gg/c0d3)
+
 [Donate here](https://secure.givelively.org/donate/garage-script)
 
 
