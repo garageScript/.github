@@ -6,7 +6,7 @@ We help low income earners who are struggling financially and looking for a job.
 Local community members are welcome to participate, everyone is welcome.
 
 ## Where to find us?
-Due to the current COVID-19 situation, all our meetings have moved online. Find out more from our San Jose Coding Meetup Page .
+All our meetings have moved online. Find out more from our San Jose Coding Meetup Page .
 
 All of our educational material is 100% free and our volunteers are working round the clock to answer questions and help you along.
 
